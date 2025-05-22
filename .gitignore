@@ -7,3 +7,5 @@ output
 EUGAN.onnx
 RPT.spec
 dist
+
+.vscode

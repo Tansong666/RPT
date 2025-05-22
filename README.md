@@ -79,8 +79,8 @@ RPT/
 
 ## 团队与支持
 - 开发团队：华中农业大学高通量作物表型团队（作物遗传改良国家重点实验室）
-- 技术支持：请通过邮箱`phenomics@hzau.edu.cn`联系（请注明"RPT软件问题"）
-- 版本更新：关注GitHub仓库`HZAU-Phenomics/RPT`获取最新功能与Bug修复。
+- 技术支持： https://github.com/shijiawei124/RPT.git 请通过邮箱`2393025921@qq.com``506437858@qq.com`联系（请注明"RPT软件问题"）
+- 版本更新：关注GitHub仓库`Tansong666/RPT`获取最新功能与Bug修复。
 
 ---
 
